@@ -90,7 +90,7 @@ function projetos(section) {
         </div>
     
         <div class="card">
-          <h3>Nutricionista Roberto - Links</h3>
+          <h3>Multifritas</h3>
           <div class="img-wrapper">
             <img src="./assets/images/multifritas.png" alt="Imagem do projeto." />
             <div class="buttons">
@@ -277,3 +277,4 @@ function projetos(section) {
 }
 
 export { projetos };
+
