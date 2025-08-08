@@ -45,7 +45,7 @@ Neste projeto apliquei os seguintes pontos:
       <img src="https://github.com/Matheus-C-Machado" width="100px" />
     </td>
     <td>
-      Feito por <a href="https://github.com/Matheus-C-Machado">Lucyan Ovídio.</a> 🙋🏿‍♂️
+      Feito por <a href="https://github.com/Matheus-C-Machado">matheus costa.</a> 🙋🏿‍♂️
     </td>
   </tr>
 </table>
